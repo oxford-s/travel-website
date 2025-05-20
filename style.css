@@ -1263,6 +1263,7 @@ body.nav-active {
   .service .container {
     grid-template-columns: 1fr repeat(3, 0.9fr);
     gap: 50px;
+    color: var(--bg-black-alpha-20);
   }
 
   .service-card:nth-child(3) {
